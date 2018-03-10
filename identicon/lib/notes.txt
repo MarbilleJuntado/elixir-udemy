@@ -1,0 +1,3 @@
+Notes:
+
+Struct: properties defined are the only properties allowed

@@ -1,0 +1,15 @@
+Notes:
+
+Pattern matching - elixir's replacement for variable replacement
+                 - occurs every time there's an equal sign
+
+|> (Pipe operator) - consistent first arguments
+
+Two types of tests:
+- assertion
+- doc testing
+
+Maps - collection of key-value pairs
+Example: %{primary: "red", secondary: "green"}
+
+Keyword Lists - used in ecto, databases
